@@ -1,0 +1,15 @@
+/build/
+/out/
+/results/
+/.idea/
+/.vscode/
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.obj
+*.pdb
+*.pyc
+__pycache__/
+*.DS_Store

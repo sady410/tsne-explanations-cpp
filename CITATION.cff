@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+title: "t-SNE Explanations in C++"
+type: software
+authors:
+  - family-names: Corbugy
+    given-names: Sacha
+    orcid: "https://orcid.org/0000-0001-8414-3866"
+    email: sacha.corbugy@unamur.be
+version: 0.1.0
+date-released: 2026-08-16
+repository-code: "https://github.com/sady410/tsne-explanations-cpp"
+url: "https://github.com/sady410/tsne-explanations-cpp"
+license: MIT
+keywords:
+  - t-SNE
+  - dimensionality reduction
+  - explainable AI
+  - gradients
+  - visualization
+preferred-citation:
+  type: article
+  title: "Gradient-based explanation for non-linear non-parametric dimensionality reduction"
+  authors:
+    - family-names: Corbugy
+      given-names: Sacha
+      orcid: "https://orcid.org/0000-0001-8414-3866"
+    - family-names: Marion
+      given-names: Rebecca
+    - family-names: Frénay
+      given-names: Benoît
+  journal: "Data Mining and Knowledge Discovery"
+  volume: "38"
+  start: "3690"
+  end: "3718"
+  year: 2024
+  doi: "10.1007/s10618-024-01055-6"
