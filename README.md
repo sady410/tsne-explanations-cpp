@@ -229,3 +229,26 @@ This C++ implementation is based on the original Python project:
 - [sady410/tsne_gradients_explanation](https://github.com/sady410/tsne_gradients_explanation)
 
 GitHub can generate citation formats directly from [CITATION.cff](CITATION.cff).
+
+## Explore interactively with Insight-SNE
+
+The C++ explanation implementation is also integrated into the current
+Insight-SNE desktop application. Its C++/Qt workspace lets you inspect points
+and selections, compare feature importance and directions, explore gradient
+vectors and point scope, and save sessions or export data and figures.
+
+- **[Insight-SNE website](https://insight-sne.netlify.app/)**: product overview,
+  screenshots, and getting-started guidance.
+- **[Download the current application](https://insight-sne.netlify.app/#download)**:
+  desktop packages and matching source archives.
+- **[First-session guide](https://insight-sne.netlify.app/#first-session)**:
+  start exploring with the Iris dataset.
+- **[Current desktop repository](https://github.com/sady410/Insight-SNE-desktop)**:
+  source repository for the current C++/Qt application.
+- **[Original Qt version](https://github.com/sady410/Insight-SNE)**:
+  the earlier desktop application, which used the Python explanation
+  implementation before the C++ integration.
+
+The desktop application builds on the same research method. This repository
+provides the standalone numerical tools and command-line workflows; the
+Insight-SNE website is the starting point for interactive exploration.
