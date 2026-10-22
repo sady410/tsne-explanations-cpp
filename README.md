@@ -243,12 +243,10 @@ vectors and point scope, and save sessions or export data and figures.
   desktop packages and matching source archives.
 - **[First-session guide](https://insight-sne.netlify.app/#first-session)**:
   start exploring with the Iris dataset.
-- **[Current desktop repository](https://github.com/sady410/Insight-SNE-desktop)**:
-  source repository for the current C++/Qt application.
 - **[Original Qt version](https://github.com/sady410/Insight-SNE)**:
   the earlier desktop application, which used the Python explanation
   implementation before the C++ integration.
 
 The desktop application builds on the same research method. This repository
-provides the standalone numerical tools and command-line workflows; the
+provides the standalone numerical tools and command-line workflows, the
 Insight-SNE website is the starting point for interactive exploration.
